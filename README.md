@@ -1,6 +1,6 @@
 # Text Preprocessing in NLP
 
-We know NLP Task Steps are,
+We know there are few steps in NLP task,
 1. Data acquisition.
 2. Data preprocessing.
 3. Text vectorization.
@@ -8,7 +8,7 @@ We know NLP Task Steps are,
 5. Evaluation.
 
 
-Here I have uploaded text preprocessing task like, 
+Here in this repositories I have uploaded text preprocessing task like, 
 1. html tag remove.
 2. url remove.
 3. punctuation remove.
