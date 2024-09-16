@@ -8,7 +8,7 @@ We know there are few steps in NLP task,
 5. Evaluation.
 
 
-Here in this repositories I have uploaded text preprocessing task like, 
+Here in this repositories I have uploaded text or data preprocessing task like, 
 1. html tag remove.
 2. url remove.
 3. punctuation remove.
